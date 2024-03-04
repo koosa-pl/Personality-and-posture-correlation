@@ -14,7 +14,7 @@ More details about the dataset, MBTI itself, and the results are found in the **
 
 
 The dataset (**Myers Briggs Table_S1.csv** file) comes from kaggle.com (credits to user: Dansek).
-The original study (Intricate Correlation between Body Posture, Personality Trait and Incidence of Body Pain: A Cross-Referential Study Report)  can be found in file called **original_article.pdf**.
+The original study (<em>Intricate Correlation between Body Posture, Personality Trait and Incidence of Body Pain: A Cross-Referential Study Report</em>)  can be found in file called **original_article.pdf**.
 
 
 All of the insights along with visualizations and code were created in Jupyter Notebook and can be view in a **MBTI-Pain-analysis.ipynb** file. 
