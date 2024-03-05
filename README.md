@@ -1,8 +1,6 @@
 # Personality-and-posture-correlation
 A project about correlation between personality traits and posture/back pain
 
-# !! < The main  MBTI-Pain-analysis.ipynb file will be uploaded later today>
-
 ## Readme/Documentation
 
 The goal of this project was to have a deeper look into a study about correlation between posture, types of back pain and personality traits calculated with Myers–Briggs Type Indicator (MBTI)  questionnaire. 
@@ -19,6 +17,6 @@ The dataset (**Myers Briggs Table_S1.csv** file) comes from kaggle.com (credits 
 The original study (<em>Intricate Correlation between Body Posture, Personality Trait and Incidence of Body Pain: A Cross-Referential Study Report</em>)  can be found in file called **original_article.pdf**.
 
 
-All of the insights along with visualizations and code were created in Jupyter Notebook and can be view in a **MBTI-Pain-analysis.ipynb** file. 
+All of the insights along with visualizations and code were created in Jupyter Notebook and can be view in a **MBTI-Pain-analysis.ipynb** file. The file is also available in pdf format (**MBTI-Pain-analysis.pdf**). 
 
 More details on MBTI personality types: https://www.16personalities.com
