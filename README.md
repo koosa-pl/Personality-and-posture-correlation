@@ -20,3 +20,5 @@ The original study (<em>Intricate Correlation between Body Posture, Personality 
 
 
 All of the insights along with visualizations and code were created in Jupyter Notebook and can be view in a **MBTI-Pain-analysis.ipynb** file. 
+
+More details on MBTI personality types: https://www.16personalities.com
